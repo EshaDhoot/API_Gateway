@@ -8,4 +8,4 @@ FRONTEND -  MIDDLE-END - BACKEND
     - Flight and Search Service: ```https://github.com/EshaDhoot/FlightsAndSearchService```
     - Booking Service: ```https://github.com/EshaDhoot/Booking_Service```
     - Auth Service: ```https://github.com/EshaDhoot/Auth_Service```
-    -Reminder Service: ```https://github.com/EshaDhoot/ReminderService```
+    - Reminder Service: ```https://github.com/EshaDhoot/ReminderService```
